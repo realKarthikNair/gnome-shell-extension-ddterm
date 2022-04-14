@@ -1,5 +1,3 @@
-# Basically My Personal Backup of the extension Source Code since the Original Repo Was Taken Down
-
 # Another Drop Down Terminal Extension for GNOME Shell
 
 [<img src="docs/get-it-on-ego.svg?sanitize=true" alt="Get it on GNOME Extensions" height="100" align="middle">][extensions.gnome.org]
